@@ -1,0 +1,40 @@
+.
+├── CLEANUP
+├── CONFIGS
+│   └── bin
+│       └── spotify-kdocker
+├── LICENSE
+├── PKGBUILDS
+│   ├── capitaine-cursors
+│   │   └── PKGBUILD
+│   ├── gtk3-nocsd-git
+│   │   ├── 30-gtk3-nocsd.sh
+│   │   ├── gtk3-nocsd-git.install
+│   │   └── PKGBUILD
+│   ├── kdocker
+│   │   └── PKGBUILD
+│   ├── manjaro-material-blue-wallpaper-git
+│   │   └── PKGBUILD
+│   ├── manjaro-mono-splash-plasma5-git
+│   │   └── PKGBUILD
+│   ├── materia-gtk-theme
+│   │   └── PKGBUILD
+│   ├── materia-kde
+│   │   └── PKGBUILD
+│   ├── papirus-icon-theme
+│   │   └── PKGBUILD
+│   ├── spotify
+│   │   ├── LICENSE
+│   │   ├── PKGBUILD
+│   │   └── spotify.protocol
+│   ├── spotify-adblock-git
+│   │   ├── PKGBUILD
+│   │   └── spotify-adblock.desktop
+│   ├── ttf-hack
+│   │   └── PKGBUILD
+│   └── ttf-ms-win10
+│       └── PKGBUILD
+├── README.md
+└── TREE
+
+15 directories, 22 files

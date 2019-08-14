@@ -15,4 +15,6 @@ find * -type d -name pkg -exec rm -rf {} +
 find * -type d -name src -exec rm -rf {} +
 find * -type f -exec chmod 644 {} +
 find * -type d -exec chmod 755 {} +
-if [ -f TREE ] ; then rm TREE && tree > TREE ; fi
+rm -rf PKGBUILDS/*/.git
+if [ -f TREE ] ; then rm TREE ;  fi
+tree > TREE
