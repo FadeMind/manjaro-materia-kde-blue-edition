@@ -1,0 +1,10 @@
+[Defaults]
+Profile=Domyślne
+
+[PROFILE_Default]
+EmailClient=/usr/bin/google-chrome-stable
+
+[PROFILE_Domyślne]
+EmailAddress=
+FullName=fademind
+ServerType=

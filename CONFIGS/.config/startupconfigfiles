@@ -1,0 +1,70 @@
+kcminputrc Mouse cursorTheme 'breeze_cursors'
+/home/fademind/.config/kcminputrc
+!/etc/xdg/kcminputrc
+!/home/fademind/.local/share/config/kcminputrc
+!/home/fademind/.local/share/flatpak/exports/share/config/kcminputrc
+!/var/lib/flatpak/exports/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+!/var/lib/snapd/desktop/config/kcminputrc
+*
+kcminputrc Mouse cursorSize ''
+/home/fademind/.config/kcminputrc
+!/etc/xdg/kcminputrc
+!/home/fademind/.local/share/config/kcminputrc
+!/home/fademind/.local/share/flatpak/exports/share/config/kcminputrc
+!/var/lib/flatpak/exports/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+!/var/lib/snapd/desktop/config/kcminputrc
+*
+ksplashrc KSplash Theme Breeze
+/home/fademind/.config/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/fademind/.local/share/config/ksplashrc
+!/home/fademind/.local/share/flatpak/exports/share/config/ksplashrc
+!/var/lib/flatpak/exports/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+!/var/lib/snapd/desktop/config/ksplashrc
+*
+ksplashrc KSplash Engine KSplashQML
+/home/fademind/.config/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/fademind/.local/share/config/ksplashrc
+!/home/fademind/.local/share/flatpak/exports/share/config/ksplashrc
+!/var/lib/flatpak/exports/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+!/var/lib/snapd/desktop/config/ksplashrc
+*
+kdeglobals KScreen ScaleFactor ''
+/home/fademind/.config/kdeglobals
+!/etc/xdg/kdeglobals
+!/home/fademind/.local/share/config/kdeglobals
+!/home/fademind/.local/share/flatpak/exports/share/config/kdeglobals
+!/var/lib/flatpak/exports/share/config/kdeglobals
+!/usr/local/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+!/var/lib/snapd/desktop/config/kdeglobals
+*
+kdeglobals KScreen ScreenScaleFactors ''
+/home/fademind/.config/kdeglobals
+!/etc/xdg/kdeglobals
+!/home/fademind/.local/share/config/kdeglobals
+!/home/fademind/.local/share/flatpak/exports/share/config/kdeglobals
+!/var/lib/flatpak/exports/share/config/kdeglobals
+!/usr/local/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+!/var/lib/snapd/desktop/config/kdeglobals
+*
+kcmfonts General forceFontDPI 0
+/home/fademind/.config/kcmfonts
+!/etc/xdg/kcmfonts
+!/home/fademind/.local/share/config/kcmfonts
+!/home/fademind/.local/share/flatpak/exports/share/config/kcmfonts
+!/var/lib/flatpak/exports/share/config/kcmfonts
+!/usr/local/share/config/kcmfonts
+!/usr/share/config/kcmfonts
+!/var/lib/snapd/desktop/config/kcmfonts
+*

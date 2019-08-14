@@ -1,0 +1,51 @@
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+
+[DownloadDialog Settings]
+Height 1080=494
+Width 1920=700
+
+[General]
+Version=200
+ViewPropsTimestamp=2019,8,9,15,17,1
+
+[IconsMode]
+FontWeight=50
+IconSize=64
+
+[KPropertiesDialog]
+Height 1080=464
+Height 900=462
+Width 1600=584
+Width 1920=405
+
+[MainWindow]
+Height 1080=1006
+Height 900=828
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAACgAAADB/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAA1AAADBwAAAFQA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAgD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAAFnAAAAwcAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1600=1600
+Width 1920=1920
+Window-Maximized 1080x1920=true
+Window-Maximized 900x1600=true
+
+[Open-with settings]
+CompletionMode=1
+History=ark,kate
+
+[PlacesPanel]
+IconSize=22
+
+[PreviewSettings]
+Plugins=imagethumbnail,ffmpegthumbs,djvuthumbnail,comicbookthumbnail,audiothumbnail,opendocumentthumbnail,jpegthumbnail,ebookthumbnail,gsthumbnail,windowsexethumbnail,kraorathumbnail,svgthumbnail,fontthumbnail,windowsimagethumbnail,exrthumbnail,appimagethumbnail,directorythumbnail,blenderthumbnail,rawthumbnail
+
+[SettingsDialog]
+Height 1080=476
+Height 900=423
+Width 1600=621
+Width 1920=691
+Window-Maximized 900x1600=true

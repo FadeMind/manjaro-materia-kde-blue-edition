@@ -1,0 +1,19 @@
+[Desktop Entry]
+DefaultProfile=
+
+[Favorite Profiles]
+Favorites=
+
+[MainWindow]
+Height 1080=657
+Height 900=828
+State=AAAA/wAAAAD9AAAAAAAABkAAAAMcAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1600=1600
+Width 1920=1272
+Window-Maximized 1080x1920=true
+Window-Maximized 900x1600=true
+
+[TabBar]
+NewTabButton=true
+TabBarVisibility=AlwaysShowTabBar

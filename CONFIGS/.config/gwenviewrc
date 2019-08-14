@@ -1,0 +1,39 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update
+
+[FileDialogSize]
+Height 900=480
+Width 1600=668
+
+[General]
+ThumbnailBarIsVisible=true
+
+[ImageView]
+ThumbnailSplitterSizes=573,164
+
+[KFileDialog Settings]
+Recent Files[$e]=2560x1600.png,file:$HOME/Pulpit/reflection-wallpaper/Manjaro Material Blue/contents/screenshot.jpg,file:$HOME/Pulpit/reflection-wallpaper/Manjaro Material Blue/contents/3840x2160.png,file:$HOME/Pulpit/reflection-wallpaper/Manjaro Material Blue/contents/images/1920x1200.png,file:$HOME/Pulpit/reflection-wallpaper/Manjaro Material Blue/contents/images/1920x1080.png,file:$HOME/Pulpit/reflection-wallpaper/Manjaro Material Blue/contents/images/2560x1600.png
+Recent URLs[$e]=file:$HOME/Pulpit/reflection-wallpaper/Manjaro Material Blue/contents/,file:$HOME/Pulpit/reflection-wallpaper/Manjaro Material Blue/
+detailViewIconSize=0
+
+[MainWindow]
+Height 1080=480
+Height 900=480
+State=AAAA/wAAAAD9AAAAAAAABkAAAALnAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1600=817
+Width 1920=816
+Window-Maximized 900x1600=true
+
+[Recent Files]
+File1[$e]=/usr/share/icons/hicolor/256x256/apps/spotify.png
+File2[$e]=/usr/share/icons/hicolor/64x64/apps/spotify.png
+File3[$e]=$HOME/GitHub/manjaro-material-blue-wallpaper/Manjaro Material Blue/contents/screenshot.jpg
+File4[$e]=$HOME/GitHub/manjaro-mono-splash-plasma5/screenshot.png
+Name1[$e]=spotify.png
+Name2[$e]=spotify.png
+Name3[$e]=screenshot.jpg
+Name4[$e]=screenshot.png
+
+[SideBar]
+SideBarSplitterSizes=242,1352

@@ -1,0 +1,30 @@
+[Added Associations]
+application/xhtml+xml=google-chrome.desktop;org.kde.kate.desktop;libreoffice-writer.desktop;okularApplication_txt.desktop;firefox.desktop;
+image/svg+xml=inkscape.desktop;gimp.desktop;pinta.desktop;org.kde.kate.desktop;libreoffice-writer.desktop;okularApplication_txt.desktop;google-chrome.desktop;
+inode/directory=org.kde.dolphin.desktop;
+text/html=google-chrome.desktop;firefox.desktop;org.kde.kate.desktop;libreoffice-writer.desktop;okularApplication_txt.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-87GD6Z.desktop;
+message/rfc822=userapp-Thunderbird-87GD6Z.desktop;
+x-scheme-handler/news=userapp-Thunderbird-GQIF6Z.desktop;
+x-scheme-handler/snews=userapp-Thunderbird-GQIF6Z.desktop;
+x-scheme-handler/nntp=userapp-Thunderbird-GQIF6Z.desktop;
+x-scheme-handler/feed=userapp-Thunderbird-OXRE6Z.desktop;
+application/rss+xml=userapp-Thunderbird-OXRE6Z.desktop;
+application/x-extension-rss=userapp-Thunderbird-OXRE6Z.desktop;
+
+[Default Applications]
+application/xhtml+xml=google-chrome.desktop;
+image/svg+xml=inkscape.desktop;
+inode/directory=org.kde.dolphin.desktop;
+text/html=google-chrome.desktop;
+x-scheme-handler/http=google-chrome.desktop;
+x-scheme-handler/https=google-chrome.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-87GD6Z.desktop
+x-scheme-handler/webcal=google-chrome.desktop
+message/rfc822=userapp-Thunderbird-87GD6Z.desktop
+x-scheme-handler/news=userapp-Thunderbird-GQIF6Z.desktop
+x-scheme-handler/snews=userapp-Thunderbird-GQIF6Z.desktop
+x-scheme-handler/nntp=userapp-Thunderbird-GQIF6Z.desktop
+x-scheme-handler/feed=userapp-Thunderbird-OXRE6Z.desktop
+application/rss+xml=userapp-Thunderbird-OXRE6Z.desktop
+application/x-extension-rss=userapp-Thunderbird-OXRE6Z.desktop

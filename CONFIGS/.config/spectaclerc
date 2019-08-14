@@ -1,0 +1,19 @@
+[FileDialogSize]
+Height 1080=718
+Width 1920=1034
+
+[General]
+lastSaveAsFile=file:///home/fademind/ffff.png
+lastSaveFile=file:///home/fademind/Obrazy/Screenshot_20190813_203155.png
+
+[GuiConfig]
+captureDelay=4
+captureModeIndex=0
+cropRegion=0,114,1268,719
+includePointer=false
+lastUsedSaveMode=1
+window-position=427,1
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/ffff.png,file:$HOME/ffff.png
+detailViewIconSize=0

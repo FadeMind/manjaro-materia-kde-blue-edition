@@ -1,0 +1,48 @@
+[ConfigDialog]
+Height 1080=274
+Height 900=295
+Width 1600=436
+Width 1920=437
+
+[DownloadDialog Settings]
+Height 900=508
+Width 1600=700
+
+[FileDialogSize]
+Height 900=480
+Width 1600=668
+
+[KFileDialog Settings]
+Recent Files[$e]=thumb-1920-410316.jpg,file:///usr/share/plasma/look-and-feel/com.manjaro.mono.splash/contents/splash/images/background.png,file:$HOME/.wallpapers/thumb-1920-410316.jpg
+Recent URLs[$e]=file:///usr/share/plasma/look-and-feel/com.manjaro.mono.splash/contents/splash/images/
+detailViewIconSize=0
+
+[KPropertiesDialog]
+Height 1080=464
+Height 900=472
+Width 1600=438
+Width 1920=592
+
+[Main]
+ActiveView=icon_mode
+
+[MainWindow]
+Height 1080=1006
+Height 900=828
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABkAAAAMHAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1600=1600
+Width 1920=1920
+Window-Maximized 1080x1920=true
+Window-Maximized 900x1600=true
+
+[Notification Messages]
+FontSettingsChanged=false
+
+[Open-with settings]
+CompletionMode=1
+History=cl,uget
+
+[PlasmaRunnerManager]
+LaunchCounts=

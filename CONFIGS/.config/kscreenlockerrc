@@ -1,0 +1,11 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Daemon]
+Autolock=false
+
+[Greeter]
+Theme=com.github.varlesh.materia
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/plasma/look-and-feel/com.manjaro.mono.splash/contents/splash/images/background.png

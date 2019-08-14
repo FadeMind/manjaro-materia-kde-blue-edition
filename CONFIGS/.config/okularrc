@@ -1,0 +1,22 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 1080=519
+Height 900=519
+State=AAAA/wAAAAD9AAAAAAAABkAAAALnAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1600=640
+Width 1920=640
+Window-Maximized 1080x1920=true
+Window-Maximized 900x1600=true
+
+[Recent Files]
+File1[$e]=$HOME/GitHub/mnjpkgbuilds/00-GUIDE.POST.INST.MD/ssh_gpg_setup.md
+File2[$e]=gdrive:/fademind/JEZYKA/harmonogram-2019.pdf?id=1Q2aPf4pRETP3LIiDtHyxx8ALDfG8TJa3
+File3[$e]=$HOME/Pobrane/Documents/2019.08.09PKP.pdf
+File4[$e]=$HOME/GitHub/manjaro-material-blue-wallpaper/README.md
+Name1[$e]=ssh_gpg_setup.md
+Name2[$e]=harmonogram-2019.pdf
+Name3[$e]=2019.08.09PKP.pdf
+Name4[$e]=README.md

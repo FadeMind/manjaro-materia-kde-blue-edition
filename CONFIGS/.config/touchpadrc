@@ -1,0 +1,14 @@
+[autodisable]
+DisableWhenMousePluggedIn=true
+
+[parameters]
+CircScrollDelta=5.73
+HorizScrollDelta=2.4
+LTCornerButton=LeftButton
+MaxTapMove=3.8
+OneFingerTapButton=LeftButton
+Tapping=false
+TwoFingerTapButton=RightButton
+VertEdgeScroll=true
+VertScrollDelta=2.4
+VertTwoFingerScroll=false

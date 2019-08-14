@@ -1,0 +1,17 @@
+State=AAAA/wAAAAD9AAAAAAAAAyAAAAIjAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+
+[DownloadDialog Settings]
+Height 1080=494
+Height 900=508
+Width 1600=700
+Width 1920=700
+
+[MainWindow]
+CommandList=
+HostList=
+SelectedSheets[$e]=ProcessTable.sgrd,SystemLoad2.sgrd,System Load and Temps-1.01.sgrd
+SplitterSizeList=951,648
+State=AAAA/wAAAAD9AAAAAAAAAyAAAAIfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+currentSheet=2
+isMinimized=false

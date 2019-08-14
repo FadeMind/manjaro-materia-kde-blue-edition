@@ -1,0 +1,5 @@
+[General]
+history=kdesu dbus-launch systemsettings5,sudo dbus-launch systemsettings5,pamac-tray-appindicator,msm_kde_notifier,octopi-no,manjaro-setting,env GDK_BACKEND=x11 uget-gtk
+
+[PlasmaRunnerManager]
+LaunchCounts=1 shell_pamac-tray-appindicator,1 services_manjaro-settings-manager.desktop,2 shell_msm_kde_notifier,4 shell_kdesu dbus-launch systemsettings5,1 services_octopi-notifier.desktop,1 shell_sudo dbus-launch systemsettings5

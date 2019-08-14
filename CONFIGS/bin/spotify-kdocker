@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+env LD_PRELOAD=/usr/lib/spotify-adblock.so spotify --force-device-scale-factor=1.2 &
+kdocker -n Spotify -i /home/fademind/.icons/spotify-indicator.svg -q 

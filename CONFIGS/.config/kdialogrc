@@ -1,0 +1,12 @@
+[FileDialogSize]
+Height 1080=666
+Height 900=655
+Width 1600=1018
+Width 1920=1126
+Window-Maximized 900x1600=true
+
+[KFileDialog Settings]
+Recent Files[$e]=nano-kopia-zapasowa_2019-07-07_07.16.36.txt,file:$HOME/Obrazy/Screenshot_20190813_203155.png,file:$HOME/Obrazy/Screenshot_20190813_144629.png,file:$HOME/Obrazy/Screenshot_20190813_183844.png,file:$HOME/Obrazy/Screenshot_20190813_182750.png,file:$HOME/Obrazy/Screenshot_20190813_182905.png,file:$HOME/Obrazy/Screenshot_20190813_183340.png,file:$HOME/Obrazy/Screenshot_20190813_183311.png,file:$HOME/Obrazy/Screenshot_20190813_183236.png,file:$HOME/Obrazy/Screenshot_20190813_183209.png,file:$HOME/Obrazy/Screenshot_20190813_183124.png,file:$HOME/Obrazy/Screenshot_20190813_183105.png,file:$HOME/Obrazy/Screenshot_20190813_183042.png,file:$HOME/Obrazy/Screenshot_20190813_183021.png,file:$HOME/Obrazy/Screenshot_20190813_183813.png,file:$HOME/Obrazy/Screenshot_20190813_183730.png
+Recent URLs[$e]=file:$HOME/Obrazy/
+detailViewIconSize=100
+listViewIconSize=100
