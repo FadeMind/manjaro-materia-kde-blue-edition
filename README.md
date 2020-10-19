@@ -7,7 +7,7 @@
 
 PKGUILDS and CONFIGS for setup Blue Dark Manjaro KDE Experience
 
-Topic https://forum.manjaro.org/t/98680
+Topic https://archived.forum.manjaro.org/t/98680
 
 CONFIGS are ready to use. READ comments in .bashrc for details. Colors match to blue looks. 
 ```
@@ -26,5 +26,5 @@ is bigger spotify-indicator.svg based directly on @varlesh work https://github.c
 - https://github.com/user-none/KDocker
 
 ## REFERENCES
-- https://forum.manjaro.org/t/howto-minimize-spotify-app-window-directly-to-tray/98302
-- https://forum.manjaro.org/t/howto-block-ads-in-spotify-with-spotify-adblock-20190810/40198
+- https://archived.forum.manjaro.org/t/howto-minimize-spotify-app-window-directly-to-tray/98302
+- https://archived.forum.manjaro.org/t/howto-block-ads-in-spotify-with-spotify-adblock-20190810/40198

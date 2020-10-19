@@ -1,40 +1,182 @@
 .
-├── CLEANUP
-├── CONFIGS
-│   └── bin
-│       └── spotify-kdocker
-├── LICENSE
-├── PKGBUILDS
-│   ├── capitaine-cursors
-│   │   └── PKGBUILD
-│   ├── gtk3-nocsd-git
-│   │   ├── 30-gtk3-nocsd.sh
-│   │   ├── gtk3-nocsd-git.install
-│   │   └── PKGBUILD
-│   ├── kdocker
-│   │   └── PKGBUILD
-│   ├── manjaro-material-blue-wallpaper-git
-│   │   └── PKGBUILD
-│   ├── manjaro-mono-splash-plasma5-git
-│   │   └── PKGBUILD
-│   ├── materia-gtk-theme
-│   │   └── PKGBUILD
-│   ├── materia-kde
-│   │   └── PKGBUILD
-│   ├── papirus-icon-theme
-│   │   └── PKGBUILD
-│   ├── spotify
-│   │   ├── LICENSE
-│   │   ├── PKGBUILD
-│   │   └── spotify.protocol
-│   ├── spotify-adblock-git
-│   │   ├── PKGBUILD
-│   │   └── spotify-adblock.desktop
-│   ├── ttf-hack
-│   │   └── PKGBUILD
-│   └── ttf-ms-win10
-│       └── PKGBUILD
-├── README.md
-└── TREE
+|-- CLEANUP
+|-- CONFIGS
+|   `-- bin
+|       `-- spotify-kdocker
+|-- LICENSE
+|-- PKGBUILDS
+|   |-- gtk3-nocsd-git
+|   |   |-- 30-gtk3-nocsd.sh
+|   |   |-- PKGBUILD
+|   |   `-- gtk3-nocsd-git.install
+|   |-- kdocker-git
+|   |   `-- PKGBUILD
+|   |-- manjaro-material-blue-wallpaper-git
+|   |   |-- PKGBUILD
+|   |   `-- manjaro-material-blue-wallpaper
+|   |       |-- HEAD
+|   |       |-- branches
+|   |       |-- config
+|   |       |-- description
+|   |       |-- hooks
+|   |       |   |-- applypatch-msg.sample
+|   |       |   |-- commit-msg.sample
+|   |       |   |-- fsmonitor-watchman.sample
+|   |       |   |-- post-update.sample
+|   |       |   |-- pre-applypatch.sample
+|   |       |   |-- pre-commit.sample
+|   |       |   |-- pre-merge-commit.sample
+|   |       |   |-- pre-push.sample
+|   |       |   |-- pre-rebase.sample
+|   |       |   |-- pre-receive.sample
+|   |       |   |-- prepare-commit-msg.sample
+|   |       |   `-- update.sample
+|   |       |-- info
+|   |       |   `-- exclude
+|   |       |-- objects
+|   |       |   |-- 01
+|   |       |   |   `-- 1e30218272e173deb2b8bdba23a73979782657
+|   |       |   |-- 40
+|   |       |   |   `-- c4969dfd4afbe07cf68ff28047535cea9d14ac
+|   |       |   |-- 41
+|   |       |   |   `-- c77a5d074e122d3ff0f3858b2ac0d7966f8788
+|   |       |   |-- 56
+|   |       |   |   `-- 9c604893efb89166f4d215bf3d5e3544c59a46
+|   |       |   |-- 72
+|   |       |   |   `-- 12f4fdb0e0fd576009126f5d60211cbd0fc9fd
+|   |       |   |-- 76
+|   |       |   |   `-- 6891eccefa169501a7736aa6843557ab8201db
+|   |       |   |-- 78
+|   |       |   |   `-- 2ffb08b971b6f1288e6fef468f5e2e4d541c5f
+|   |       |   |-- 87
+|   |       |   |   `-- 33158e68704e5eb40b7a1ab925af035bb96dcd
+|   |       |   |-- 8c
+|   |       |   |   `-- 384c4aca33d1087b74bcc1271da31747ca786d
+|   |       |   |-- 97
+|   |       |   |   `-- a4049405945583277389a1a0d79fac8494502c
+|   |       |   |-- a1
+|   |       |   |   `-- f467ade5a6c55fbeb4b4229c44230015f22184
+|   |       |   |-- a8
+|   |       |   |   `-- 28e79723745e598fb6ef02eaf68b85d00a3d0c
+|   |       |   |-- aa
+|   |       |   |   `-- 6a7f7004e35499679388f3151300888c76d195
+|   |       |   |-- d6
+|   |       |   |   `-- 484a3074180bf8060de1650937153a69ce643e
+|   |       |   |-- e6
+|   |       |   |   `-- 07a61bdd503b3d40c8b148b49086da1d215e28
+|   |       |   |-- eb
+|   |       |   |   `-- 72bea8686d8b6932c2514ec536509eff064da5
+|   |       |   |-- f2
+|   |       |   |   `-- 88702d2fa16d3cdf0035b15a9fcbc552cd88e7
+|   |       |   |-- f3
+|   |       |   |   `-- 9e02792e347f10898590c5e7e24a8d22bc57de
+|   |       |   |-- fc
+|   |       |   |   `-- 15663a8cea1a7fa807c1b777921ae8d87334dc
+|   |       |   |-- info
+|   |       |   `-- pack
+|   |       |-- packed-refs
+|   |       `-- refs
+|   |           |-- heads
+|   |           `-- tags
+|   |-- manjaro-mono-splash-plasma5-git
+|   |   |-- PKGBUILD
+|   |   `-- manjaro-mono-splash-plasma5
+|   |       |-- HEAD
+|   |       |-- branches
+|   |       |-- config
+|   |       |-- description
+|   |       |-- hooks
+|   |       |   |-- applypatch-msg.sample
+|   |       |   |-- commit-msg.sample
+|   |       |   |-- fsmonitor-watchman.sample
+|   |       |   |-- post-update.sample
+|   |       |   |-- pre-applypatch.sample
+|   |       |   |-- pre-commit.sample
+|   |       |   |-- pre-merge-commit.sample
+|   |       |   |-- pre-push.sample
+|   |       |   |-- pre-rebase.sample
+|   |       |   |-- pre-receive.sample
+|   |       |   |-- prepare-commit-msg.sample
+|   |       |   `-- update.sample
+|   |       |-- info
+|   |       |   `-- exclude
+|   |       |-- objects
+|   |       |   |-- 1c
+|   |       |   |   `-- 8a8f012a2052bc7a357a198d5a19722234912c
+|   |       |   |-- 20
+|   |       |   |   `-- a6e9bce53f45586f0223ec97061f55dd02fcaf
+|   |       |   |-- 3a
+|   |       |   |   `-- 13b18bfd4a0a0a44950f5dbf5546106c52d646
+|   |       |   |-- 4d
+|   |       |   |   `-- 1ff143f979c8a4d398fb8dfe44e26162ba6fb2
+|   |       |   |-- 61
+|   |       |   |   `-- a08fee17b36f4314e8a792a35c7c1477d97167
+|   |       |   |-- 63
+|   |       |   |   `-- e3ce9be86c070612d650eb4ab6a8254670a1e9
+|   |       |   |-- 6d
+|   |       |   |   `-- 13757c30120877f3d0bdcdfc10da1dbe205f63
+|   |       |   |-- 89
+|   |       |   |   `-- a12160837a220a3a0e15cff6d846dc3fd561a4
+|   |       |   |-- 8b
+|   |       |   |   `-- c0f76ffcc514f6a8c14dd8fa6c94c5ac4cab6c
+|   |       |   |-- 8d
+|   |       |   |   `-- dae25396d855b61dbdd618cd7743cbc5b98a57
+|   |       |   |-- 9c
+|   |       |   |   `-- 0acdd26464e95c36102678e905732c5f9b730c
+|   |       |   |-- a1
+|   |       |   |   `-- a9fc438a18e06b683001916a8cfb663e78d27a
+|   |       |   |-- a5
+|   |       |   |   `-- 514c01929284bb290215e036ed450cb040b878
+|   |       |   |-- a6
+|   |       |   |   `-- e18cde96a3f0b2535dff2cd1920fb55b9f44ef
+|   |       |   |-- aa
+|   |       |   |   `-- 3043883810dc9cd735903fdeb3439f2e46640a
+|   |       |   |-- ac
+|   |       |   |   `-- 3e795ea6b48146d9f0fba6d3adf653517b0271
+|   |       |   |-- be
+|   |       |   |   `-- db982876778921370a2482f6cdb1ba1f280688
+|   |       |   |-- ca
+|   |       |   |   `-- 8550f63aa8d0e4df89dfa831002e9e1e55d0d6
+|   |       |   |-- cf
+|   |       |   |   `-- 4300af0592da0b6789c2c6696b53e95110c171
+|   |       |   |-- d6
+|   |       |   |   `-- 4d9e384995b14b2d7b545bed2608838acf81a0
+|   |       |   |-- d8
+|   |       |   |   `-- 468e2e7da945ba613a39bd960122ba82bddeb8
+|   |       |   |-- e0
+|   |       |   |   `-- 2385604b7483f5304de94628f1961cce09c1e1
+|   |       |   |-- e1
+|   |       |   |   `-- ec7ce0646ec973080172847d54cd75f73e3f2e
+|   |       |   |-- f1
+|   |       |   |   `-- 81a1dbf93a4e266b4b301eac71b5a63d4a3ca9
+|   |       |   |-- f2
+|   |       |   |   `-- 88702d2fa16d3cdf0035b15a9fcbc552cd88e7
+|   |       |   |-- f5
+|   |       |   |   `-- 74a01d11e824d7514b140b9051220ad949130d
+|   |       |   |-- info
+|   |       |   `-- pack
+|   |       |-- packed-refs
+|   |       `-- refs
+|   |           |-- heads
+|   |           `-- tags
+|   |-- materia-gtk-theme
+|   |   `-- PKGBUILD
+|   |-- materia-kde
+|   |   `-- PKGBUILD
+|   |-- papirus-icon-theme-git
+|   |   `-- PKGBUILD
+|   |-- spotify
+|   |   |-- LICENSE
+|   |   |-- PKGBUILD
+|   |   `-- spotify.protocol
+|   |-- spotify-adblock-git
+|   |   |-- PKGBUILD
+|   |   `-- spotify-adblock.desktop
+|   |-- ttf-hack
+|   |   `-- PKGBUILD
+|   `-- ttf-ms-win10
+|       `-- PKGBUILD
+|-- README.md
+`-- TREE
 
-15 directories, 22 files
+79 directories, 100 files
